@@ -1,0 +1,7 @@
+.item {
+  width: 200px;
+}
+
+.item[data-state="selected"] {
+  border: 1px solid red;
+}
